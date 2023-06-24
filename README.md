@@ -14,3 +14,6 @@ A lab that will help you to understand how file upload restrictions can be bypas
 
 5. The application will start working on port 80
 
+# Solution
+
+Check out our YouTube video: https://www.youtube.com/watch?v=GdWZPCJ4Smw
