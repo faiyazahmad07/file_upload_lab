@@ -17,3 +17,4 @@ A lab that will help you to understand how file upload restrictions can be bypas
 # Solution
 
 Check out our YouTube video: https://www.youtube.com/watch?v=GdWZPCJ4Smw
+Test Key = AKIAR4YEYRJL6JKBNRGQ
